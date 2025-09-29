@@ -1,5 +1,7 @@
 README
 
+Sequential Pdf Merger for bulk pdf merging
+
 BUILD
 1) open powershell terminal in the home directory of this app
 2) run "powershell.exe .\ps-base\macro.ps1" in the shell
